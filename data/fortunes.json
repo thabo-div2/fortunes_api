@@ -1,0 +1,20 @@
+[
+	{
+		"id": 1,
+		"message": "My time has come",
+		"lucky_number": 11,
+		"spirit_animal": "Monkey"
+	},
+	{
+		"id": 2,
+		"message": "I am Captain Jack Sparrow",
+		"lucky_number": 31,
+		"spirit_animal": "Parrot"
+	},
+	{
+		"id": 1,
+		"message": "You savvy",
+		"lucky_number": 20,
+		"spirit_animal": "Octopus"
+	}
+]
